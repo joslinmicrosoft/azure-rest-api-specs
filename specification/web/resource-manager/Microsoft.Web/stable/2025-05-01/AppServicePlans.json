@@ -1522,7 +1522,7 @@
           {
             "name": "workerName",
             "in": "path",
-            "description": "Name of worker machine.",
+            "description": "Name of worker machine, which typically starts with RD.",
             "required": true,
             "type": "string"
           },
